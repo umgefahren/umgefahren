@@ -13,6 +13,8 @@ I'm Hannes
 
 🌱 I'm currently learning [Go](https://github.com/golang/go) and [Flutter](https://github.com/flutter/flutter). But Rust is and stays the best programming language!
 
+I feel like home in: 🇩🇪 / 🇨🇭 / 🇪🇺
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umgefahren&show_icons=true)
 
