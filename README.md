@@ -9,8 +9,6 @@ I'm Hannes
 
 🔒 My most proudest project is [dione](https://github.com/Dione-Software/dione) a dezenteralized messaging system. Still in development, although I don't really have the time. ~> I look for a collaborator for this project. 
 
-📫 You can reach me on [Reddit](https://www.reddit.com/user/umgefahren/).
-
 🌱 I'm currently learning [Go](https://github.com/golang/go) and [Flutter](https://github.com/flutter/flutter). But Rust is and stays the best programming language!
 
 I feel like home in: 🇩🇪 / 🇨🇭 / 🇪🇺
