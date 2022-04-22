@@ -5,7 +5,7 @@ I'm Hannes
 
 💻 I'm studying computer science at [ETH Zürich](https://ethz.ch/en.html).
 
-🦭 I'm programming mainley in [Go](https://rust-lang.org) and I'm particularly interested in [Web3](https://web3.foundation/about/).
+🦭 I'm programming mainley in [Rust](https://rust-lang.org)/[Go](https://go.dev)/C and I'm particularly interested in [Web3](https://web3.foundation/about/).
 
 🔒 My most proudest project is [dione](https://github.com/Dione-Software/dione) a dezenteralized messaging system. Still in development, although I don't really have the time. ~> I look for a collaborator for this project. 
 
