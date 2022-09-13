@@ -12,7 +12,7 @@ I'm Hannes
 I feel like home in: 🇩🇪 / 🇨🇭 / 🇪🇺
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umgefahren&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umgefahren&show_icons=true&theme=cobalt)
 
 
 | Stat         	| Value                  	|
@@ -22,4 +22,4 @@ I feel like home in: 🇩🇪 / 🇨🇭 / 🇪🇺
 | Stars        	| **41**        	|
 | Repositories 	| **37** 	|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umgefahren&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umgefahren&layout=compact&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
