@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I'm Hannes
 
 ☮️ he/him
@@ -9,17 +9,12 @@ I'm Hannes
 
 🔒 My proudest project is [dione](https://github.com/Dione-Software/dione) a dezenteralized messaging system. Still in development, although I don't really have the time. ~> I look for a collaborator for this project. 
 
-I feel like home in: 🇩🇪 / 🇨🇭 / 🇪🇺
+🌐 I'm a contributer to [rust-libp2p](https://github.com/libp2p/rust-libp2p).
 
+💼 I'm a cofounder and lead-developer at my Startup Nautilus Smart Systems.
+
+I like sailing ⛵️ and photography 📷🎞️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umgefahren&show_icons=true&theme=cobalt)
-
-
-| Stat         	| Value                  	|
-|--------------	|------------------------	|
-| Account Age  	| **2**  	|
-| Commits      	| **626**      	|
-| Stars        	| **41**        	|
-| Repositories 	| **37** 	|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umgefahren&layout=compact&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
