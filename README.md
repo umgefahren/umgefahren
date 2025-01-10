@@ -11,8 +11,6 @@ I'm Hannes
 
 🌐 I'm a contributer to [rust-libp2p](https://github.com/libp2p/rust-libp2p).
 
-💼 I'm a cofounder and lead-developer at my Startup Nautilus Smart Systems.
-
 I like sailing ⛵️ and photography 📷🎞️ and tae 🐻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=umgefahren&show_icons=true&theme=cobalt)
